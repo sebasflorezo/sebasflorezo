@@ -1,5 +1,6 @@
 ### Hi, I'm Sebas 👨‍💻
-
+- 🌱 I’m currently learning Spring Boot, Linux and Rust
+- 👯 I’m looking to collaborate on Open Source Projects
 <!--
 **sebasflorezo/sebasflorezo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

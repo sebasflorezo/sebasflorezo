@@ -27,7 +27,8 @@
   <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="30" />
-  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="ubuntu logo"  />
+  <img src="https://www.debian.org/logos/openlogo-nd.svg" height="40" alt="debian logo" />
+  <img width="30" />
 </div>
 
 ###

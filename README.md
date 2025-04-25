@@ -10,7 +10,10 @@
 
 ###
 
-<p align="left"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  /> I'm a GNU/Linux enthusiast! <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  /><br>📚 I'm currently learning Spring Boot, Rust and PHP<br>🖥️ I would like to collaborate on open source projects<br>🎮 Hobbies: video games, science, plants 🌼, climbing 🧗 (sometimes) and GNU/Linux, of course </p>
+<p align="left"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  /> I'm a GNU/Linux enthusiast! <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  /><br>
+📚 I'm currently learning Spring Boot, Rust and AI with Python<br>
+🖥️ I would like to collaborate on open source projects<br>
+🎮 Hobbies: video games, science, plants 🌼, climbing 🧗 (sometimes) and GNU/Linux, of course </p>
 
 ###
 
@@ -28,6 +31,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="30" />
   <img src="https://www.debian.org/logos/openlogo-nd.svg" height="40" alt="debian logo" />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="java logo"  />
   <img width="30" />
 </div>
 

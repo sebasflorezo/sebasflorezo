@@ -13,7 +13,7 @@
 <p align="left"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  /> I'm a GNU/Linux enthusiast! <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  /><br>
 📚 I'm currently learning Spring Boot, Rust and AI with Python<br>
 🖥️ I would like to collaborate on open source projects<br>
-🎮 Hobbies: video games, science, plants 🌼, chess, climbing 🧗 (sometimes) and GNU/Linux, of course </p>
+🎮 Hobbies: video games, science, plants 🌼, chess♟️, climbing 🧗 (sometimes) and GNU/Linux, of course </p>
 
 ###
 

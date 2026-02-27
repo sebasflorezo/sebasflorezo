@@ -10,10 +10,10 @@
 
 ###
 
-<p align="left"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  /> I'm a GNU/Linux enthusiast! <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  /><br>
-📚 I'm currently learning Spring Boot, Rust and AI with Python<br>
-🖥️ I would like to collaborate on open source projects<br>
-🎮 Hobbies: video games, science, plants 🌼, chess♟️, climbing 🧗 (sometimes) and GNU/Linux, of course </p>
+- 🐧 I'm a GNU/Linux enthusiast!🐧
+- 📚 I'm currently learning Spring Boot, Rust and AI with Python
+- 🖥️ I would like to collaborate on open source projects
+- 🎮 Hobbies: video games, science, plants 🌼, chess♟️, climbing 🧗 (sometimes) and GNU/Linux, of course
 
 ###
 
@@ -21,19 +21,23 @@
 
 ###
 
-<div align="left">
+<div style="display: flex; flex-direction: row;">
+  <h3>Languages</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
-  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo" />
+
+  <h3>Frameworks / Tools</h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" height="40" alt="neovim logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="30" />
-  <img src="https://www.debian.org/logos/openlogo-nd.svg" height="40" alt="debian logo" />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="java logo"  />
-  <img width="30" />
+
+  <h3>OS</h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" height="40" alt="debian logo" />
 </div>
 
 ###
